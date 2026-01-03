@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Data (DO NOT COMMIT LARGE FILES)
+*.h5ad
+*.loom
+*.csv
+*.tsv
+
+# Jupyter
+.ipynb_checkpoints/
