@@ -65,8 +65,3 @@ This project is ideal for students, bioinformaticians, and research labs who wan
 - Modular and readable codebase
 - GitHub- and portfolio-ready
 - Compatible with low-resource machines
-
----
-
-## Project Structure
-
